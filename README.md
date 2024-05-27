@@ -12,6 +12,7 @@ npm run dev
 
 - typescript for type safety
 - daisy ui for quick & good looking ui
+- tailwind for quick ui prototyping
 - nextjs for ease of development
 - jotai for simple state management (todo)
 - font awesome for icons
