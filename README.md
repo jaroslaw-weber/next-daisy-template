@@ -15,7 +15,8 @@ npm run dev
 - tailwind for quick ui prototyping
 - nextjs for ease of development
 - jotai for simple state management (todo)
-- font awesome for icons
+- font awesome for icons (todo)
+- lodash for quick utilities (todo)
 - github action config for deploying project to github pages
 
 ## creating new project from this template
