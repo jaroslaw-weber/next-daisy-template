@@ -8,6 +8,15 @@ to run in development mode:
 npm run dev
 ```
 
+# stack
+
+- typescript for type safety
+- daisy ui for quick & good looking ui
+- nextjs for ease of development
+- jotai for simple state management (todo)
+- font awesome for icons
+- github action config for deploying project to github pages
+
 ## creating new project from this template
 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
